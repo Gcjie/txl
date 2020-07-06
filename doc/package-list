@@ -1,0 +1,10 @@
+com.txl.Dao
+com.txl.DaoImpl
+com.txl.Factory
+com.txl.Ui
+com.txl.Util
+com.txl.Vo
+com.txl.dbc
+com.txl.servic
+com.txl.serviceImpl
+com.txl.test.junit
